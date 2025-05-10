@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 output_file="search_results.txt"
-echo -e "\t\t\tWelcome to the automated system of File and Folder Searching (FAFD)!"
+echo -e "\t\t\tWelcome to the automated system of File and Folder Searching (FAFS)!"
 
 while true; do
     read -r -p "Enter your choice (1.file, 2.folder): " choice
